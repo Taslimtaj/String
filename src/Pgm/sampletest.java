@@ -11,6 +11,8 @@ public class sampletest
 	{
 		Reporter.log("SAmple test created");
 		
+		Reporter.log("Sample Test Modified");
+		
 	}
 
 }
